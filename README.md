@@ -1,3 +1,3 @@
 # code-repository
-code snippet
+code snippet  
 Avoid repeating work.
